@@ -12,7 +12,7 @@
     <div class="col s12 m24">
       <div class="card-panel teal lighten-3">
         <span class="white-text">
-          Nombre: Pharaoh Athem ...... <br/>
+          Nombre: Atem ..... :p <br/>
           Grupo:  <br/>
           Clase: Graficacion  <br/>
           Semestre: 8 semestre <br/>
